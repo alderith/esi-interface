@@ -1,1 +1,1 @@
-# esi-interface
+# Just a pilots attempt at playing with eve's ESI interface. Contact Alderith in game.
