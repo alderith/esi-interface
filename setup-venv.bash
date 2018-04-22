@@ -6,3 +6,4 @@
 mkdir virtualenv-esi
 virtualenv virtualenv-esi
 source virtualenv-esi/bin/activate
+pip install -r requirements.txt
