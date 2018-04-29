@@ -1,1 +1,8 @@
 esipy
+pymongo
+numpy
+jupyter
+pandas
+matplotlib
+bravado
+diskcache
